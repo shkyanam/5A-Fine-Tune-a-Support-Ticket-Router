@@ -1,0 +1,25 @@
+# Local LLaMA-Factory clone and its generated files
+LLaMA-Factory/
+
+# Local artifacts and logs
+*.pdf
+saves/
+output/
+outputs/
+hf_cache/
+ms_cache/
+om_cache/
+wandb/
+generated_predictions.jsonl
+predictions_score.json
+
+# Python and macOS files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Local validation split generated during experimentation
+# Remove this line if you want to publish the split explicitly.
+# val_split.csv
