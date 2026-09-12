@@ -3,6 +3,7 @@ LLaMA-Factory/
 
 # Local artifacts and logs
 *.pdf
+!LLaMA Factory (shalinikyanam-mac).pdf
 saves/
 output/
 outputs/
